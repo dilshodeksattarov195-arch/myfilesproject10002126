@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdave",
+        "uuid": 2330096,
+        "checksum": "b8c"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
